@@ -5,6 +5,8 @@ The main code is in resume.c  file.
 
 Program input information-
 This is the code for game tic tak toe . In this if you want to select the option in ouput console just enter the number at which position it is present .And for inputting  the  ‘x’ or ‘o’ into the game. The scehme is as follows 
+
+
 00	01	02
 10	11	12
 20	21	22
