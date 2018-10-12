@@ -10,7 +10,7 @@ This is the code for game tic tak toe . In this if you want to select the option
 00	01	02
 10	11	12
 20	21	22
-This is well structured in readme.docx read it as well.
+This is well structured in readme.docx readitfirst it as well.
 
 This above are the positions and the input you need for that particular positon is given, i.e if you want to set ‘x’ at middle position of middle row then enter input 1 and 1. 
 
